@@ -1,12 +1,12 @@
-name: de4js
-title: de4js
+name: adiixyzx404
+title: adiixyzx404
 description: JavaScript Deobfuscator and Unpacker
 version: 1.12.0
-author: Zzbaivong
-author_email: Zzbaivong@gmail.com
-url: https://lelinhtinh.github.io
-baseurl: /de4js
-repository: lelinhtinh/de4js
+author: Adiixyz
+author_email: adiicotz@gmail.com
+url: https://adiixyzx404.github.io
+baseurl: /jsdu
+repository: AdiixyzX404/adiixyzx404.github.io
 license: MIT
 
 theme: jekyll-theme-hacker
